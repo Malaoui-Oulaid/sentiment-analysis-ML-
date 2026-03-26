@@ -72,6 +72,3 @@ Combinaison de :
 ### 9. Prédiction
 - Génération des labels sur le dataset test  
 
-
-✔ Code clair et modulaire  
-✔ Facilement extensible 
