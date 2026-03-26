@@ -72,12 +72,6 @@ Combinaison de :
 ### 9. Prédiction
 - Génération des labels sur le dataset test  
 
----
 
-##  Points forts du projet
-
-✔ Pipeline NLP complet et structuré  
-✔ Combinaison de plusieurs types de features  
-✔ Approche hybride (statistique + linguistique)  
 ✔ Code clair et modulaire  
 ✔ Facilement extensible 
